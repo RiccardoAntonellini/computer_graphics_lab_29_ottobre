@@ -1,0 +1,74 @@
+## =========================================================================
+## Cache di Visual Studio e file specifici dell'ambiente utente
+## =========================================================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+## =========================================================================
+## Directory di output di build (binari intermedi e finali)
+## =========================================================================
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## =========================================================================
+## File intermedi di compilazione e linker (C / C++ / C#)
+## =========================================================================
+*.obj
+*.o
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.pch
+*.ipch
+*.res
+*.intermediate
+*.lastbuildstate
+*.exp
+*.lib
+
+## =========================================================================
+## File di output e pacchetti eseguibili generati
+## =========================================================================
+*.exe
+*.dll
+*.so
+*.dylib
+*.msi
+*.msix
+*.appx
+
+## =========================================================================
+## Database di diagnostica, profiling e IntelliSense
+## =========================================================================
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.ipch
+
+## =========================================================================
+## File temporanei di sistema e crash dump
+## =========================================================================
+*.tmp
+*.log
+*.dmp
+*.tlog
+Thumbs.db
+Desktop.ini
